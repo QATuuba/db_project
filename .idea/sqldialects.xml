@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Queries/alter_table.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/create_table.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/customerandaddress.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Queries/demo.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Queries/group_by.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/join1.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Queries/join2.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Queries/like_agg.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Queries/select.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Queries/string_man_views.sql" dialect="GenericSQL" />
